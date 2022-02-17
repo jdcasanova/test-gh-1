@@ -3,8 +3,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
-      <p>My name is Peter but everybody call me Pepe</p>
+      <h1>Clean App</h1>
+      <p>Este texto tiene que estar</p>
+      <p>Este segundo texto tambien tiene que estar</p>
+      <p>Y este tercero depende</p>
     </div>
   );
 }
