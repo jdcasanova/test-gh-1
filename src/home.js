@@ -1,3 +1,6 @@
 function home() {
-  return <h1>Home</h1>;
+    const hola = 'hola'
+  return <h1>{hola}</h1>;
 }
+
+export default home
